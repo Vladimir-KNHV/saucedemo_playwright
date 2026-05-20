@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","683","Login with valid username and password","tests","Wed May 20 16:59:31 UTC 2026","passed","Wed May 20 16:59:32 UTC 2026","TestAuthorization","test_authorization","",""
+"","607","Login with wrong username and password","tests","Wed May 20 16:59:30 UTC 2026","passed","Wed May 20 16:59:31 UTC 2026","TestAuthorization","test_authorization","",""
+"","546","Login with wrong username and password","tests","Wed May 20 16:59:29 UTC 2026","passed","Wed May 20 16:59:30 UTC 2026","TestAuthorization","test_authorization","",""
+"","568","Login with wrong username and password","tests","Wed May 20 16:59:30 UTC 2026","passed","Wed May 20 16:59:31 UTC 2026","TestAuthorization","test_authorization","",""
+"","1521","Successful product purchase","tests","Wed May 20 16:59:31 UTC 2026","passed","Wed May 20 16:59:33 UTC 2026","TestE2E","test_e2e","",""
+"","572","Login with wrong username and password","tests","Wed May 20 16:59:29 UTC 2026","passed","Wed May 20 16:59:30 UTC 2026","TestAuthorization","test_authorization","",""

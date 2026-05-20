@@ -1,0 +1,167 @@
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="username"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="username"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="password"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="password"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:32 Clicking Button "login"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="login-button"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "products_title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "products_title" have text "Products"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Dropdown "dropdown" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="product-sort-container"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:32 Clicking Button "add_to_cart_button"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "button.btn_small" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Container "item_card" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_name" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-name"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_description" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-desc"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_price" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Image "item_img" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item"] > [class="inventory_item_img"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Button "add_to_cart_button" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "button.btn_small" with index "0"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Button "add_to_cart_button" have text "Remove"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "button.btn_small" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-name"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-desc"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:32 Clicking Link "cart_link"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="shopping-cart-link"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "cart_title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "cart_title" have text "Your Cart"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "cart_qty_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-quantity-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "cart_qty_label" have text "QTY"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-quantity-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "cart_desc_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-desc-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "cart_desc_label" have text "Description"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-desc-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Container "item_card" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_name" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-name"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_description" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-desc"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_price" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Button "add_to_cart_button" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "button.btn_small" with index "0"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Button "add_to_cart_button" have text "Remove"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "button.btn_small" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-name"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-desc"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:32 Clicking Button "checkout_button"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="checkout"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "checkout_info_title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "checkout_info_title" have text "Checkout: Your Information"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Container "checkout_info_container" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[class="checkout_info"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Input "first_name" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="firstName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Input "first_name" have text ""
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="firstName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Input "last_name" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="lastName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Input "last_name" have text ""
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="lastName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Input "postal_code" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="postalCode"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Input "postal_code" have text ""
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="postalCode"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="firstName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="firstName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="lastName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="lastName"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="postalCode"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="postalCode"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:32 Clicking Button "continue_button"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="continue"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "checkout_overview_title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "checkout_overview_title" have text "Checkout: Overview"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "qty_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-quantity-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "qty_label" have text "QTY"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-quantity-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "desc_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-desc-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "desc_label" have text "Description"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="cart-desc-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Container "summary_info_container" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[class="summary_info"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "payment_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="payment-info-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "payment_label" have text "Payment Information:"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="payment-info-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "payment_info_value" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="payment-info-value"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:53 Checking Text "payment_info_value" have contain text "SauceCard #"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="payment-info-value"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "shipping_info_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="shipping-info-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "shipping_info_label" have text "Shipping Information:"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="shipping-info-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "shipping_info_value" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="shipping-info-value"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "shipping_info_value" have text "Free Pony Express Delivery!"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="shipping-info-value"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "total_info_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="total-info-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "total_info_label" have text "Price Total"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="total-info-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "total_info_value" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="subtotal-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:53 Checking Text "total_info_value" have contain text "Item total: $"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="subtotal-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "total_info_value" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="tax-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:53 Checking Text "total_info_value" have contain text "Tax: $"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="tax-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "summary_total_label" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="total-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:53 Checking Text "summary_total_label" have contain text "Total: $"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="total-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Container "item_card" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_name" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-name"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_description" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-desc"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "item_price" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-name"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-desc"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "0"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="inventory-item-price"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="subtotal-label"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:32 Clicking Button "finish_button"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="finish"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "checkout_complete_title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "checkout_complete_title" have text "Checkout: Complete!"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="title"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Container "complete_information" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="checkout-complete-container"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Image "confirmation_image" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="pony-express"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "confirmation_title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="complete-header"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "confirmation_title" have text "Thank you for your order!"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="complete-header"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:39 Checking Text "confirmation_description" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="complete-text"]" with index "None"
+INFO     BASE_ELEMENT:base_element.py:46 Checking Text "confirmation_description" have text "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator "[data-test="complete-text"]" with index "None"
